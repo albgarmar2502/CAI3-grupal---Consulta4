@@ -1,3 +1,4 @@
+```python
 # CAI3-grupal---Consulta4
 import time
 from cryptography.hazmat.backends import default_backend
